@@ -1,6 +1,6 @@
 # Richard Pereira
 
-**Engenharia de Computação no IFCE · Desenvolvimento full stack**
+**Engenharia de Computação no IFCE · Desenvolvimento Full Stack**
 
 ### Sobre mim
 
