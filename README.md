@@ -2,9 +2,11 @@
 
 **Engenharia de Computação no IFCE · Desenvolvimento full stack**
 
-Desenvolvo aplicações web com TypeScript, React e Next.js, integrando APIs REST e bancos de dados. Também trabalho com C e Python.
+### Sobre mim
 
-## Tecnologias
+Olá, me chamo Richard, tenho 20 anos e sou estudante de Engenharia de Computação no Instituto Federal do Ceará (IFCE). Tenho experiência fullstack e com sólidos conhecimentos em bancos de dados. Atualmente focado em aprender mais sobre Machine Learning e Visão Computacional, e também desenvolvendo projetos web para diferentes necessidades.
+
+### Tecnologias
 
 | Área | Ferramentas |
 | --- | --- |
@@ -12,4 +14,8 @@ Desenvolvo aplicações web com TypeScript, React e Next.js, integrando APIs RES
 | Back-end e dados | Node.js, Python, APIs REST, Supabase, MySQL, SQLite |
 | Sistemas e ferramentas | C, C++, Git, Docker, Linux, Vercel |
 
-[LinkedIn](https://www.linkedin.com/in/richardbpereira/)
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichardBrendon&theme=transparent&hide_border=true" alt="GitHub Streak" height="160" />
+</p>
